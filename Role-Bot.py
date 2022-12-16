@@ -20,7 +20,7 @@ Emoji2 = "🟢"
 Emoji3 = "🟣"
 
 # Bot token
-Token = "MTA1MzA4NzU0MTkxOTc1MjIzMg.GDZHNL.DyB3MPyZqkMV9TYV2fjU2E4WJTxs4HcUYB1KOo"
+Token = "YOUR_BOT_TOKEN_HERE"
 
 
 
